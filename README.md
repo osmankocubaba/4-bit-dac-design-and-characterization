@@ -1,6 +1,6 @@
 # Design, Simulation, and Characterization of 4-Bit DACs
 
-This repository covers the circuit design, theoretical formulation, SPICE simulation (TINA-TI / LTspice), and linearity characterization of 4-bit Digital-to-Analog Converters using LM741 operational amplifiers.
+This repository covers the circuit design, theoretical formulation, SPICE simulation (TINA-TI), and linearity characterization of 4-bit Digital-to-Analog Converters using LM741 operational amplifiers.
 
 ## Key Highlights
 - **Topologies Analyzed:** Binary-Weighted Resistor DAC vs. R-2R Ladder Network DAC.
